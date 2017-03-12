@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-cd $HOME/private
+cd $HOME/parsol
 
 install() {
 	    cd tg
@@ -63,11 +63,11 @@ if [ ! -f ./tg/tgcli ]; then
 
    print_logo
    echo -e "\033[38;5;208m"
-   echo -e "     >>>>                       parsol :D                      "
+   echo -e "     >>>>                       private                      "
    echo -e "     >>>>                                                    "
-   echo -e "     >>>>                       @mohammadrezajiji ;)                                  "
+   echo -e "     >>>>                                                         "
    echo -e "     >>>>                                                   "
-   echo -e "     >>>>                       @titantims                                     "
+   echo -e "     >>>>                                                            "
    echo -e "\033[0;00m"
    echo -e "\e[36m"
    logo_play
