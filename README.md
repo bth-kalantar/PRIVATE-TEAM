@@ -17,13 +17,12 @@ cd $HOME
 git clone https://github.com/bth-kalantar/parsol.git
 cd parsol
 chmod +x parsol.sh
-./parsol.sh install
 ./parsol.sh # Enter a phone number & confirmation code.
 ```
 ### `نصب ربات`
 *روش دوم کد یک پارچه*
 ```sh
-cd $HOME && git clone https://github.com/bth-kalantar/parsol.git && cd parsol && chmod +x parsol.sh && ./parsol.sh install && ./parsol.sh 
+cd $HOME && git clone https://github.com/bth-kalantar/parsol.git && cd parsol && chmod +x parsol.sh && ./parsol.sh 
 ```
 
 * * *
