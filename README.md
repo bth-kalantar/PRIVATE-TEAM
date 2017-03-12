@@ -15,14 +15,14 @@
 ```sh
 cd $HOME
 git clone https://github.com/bth-kalantar/private.git
-cd parsol
+cd private
 chmod +x private.sh
 ./private.sh # Enter a phone number & confirmation code.
 ```
 ### `نصب ربات`
 *روش دوم کد یک پارچه*
 ```sh
-cd $HOME && git clone https://github.com/bth-kalantar/private.git && cd parsol && chmod +x private.sh && ./private.sh 
+cd $HOME && git clone https://github.com/bth-kalantar/private.git && cd private && chmod +x private.sh && ./private.sh 
 ```
 
 * * *
@@ -39,7 +39,7 @@ cd $HOME && git clone https://github.com/bth-kalantar/private.git && cd parsol &
 ```
 killall screen
 killall .telegram-cli
-cd parsol
+cd private
 screen ./private.sh
 
 ```
