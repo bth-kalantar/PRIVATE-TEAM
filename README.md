@@ -17,7 +17,7 @@ cd $HOME
 git clone https://github.com/bth-kalantar/private.git
 cd private
 chmod +x private.sh
-./parsol.sh install
+./private.sh install
 ./private.sh # Enter a phone number & confirmation code.
 ```
 ### `نصب ربات`
